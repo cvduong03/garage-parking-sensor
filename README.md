@@ -13,7 +13,7 @@ As the car approaches the ultrasonic sensor placed at the wall, the measurements
 - Less than 1 feet: Solid red (close/stop)
 - Less than 6 inches: Flash red (too close/stop immediately)
 
-The LED strip will display the appropriate color and turn off after no change in distance.
+The LED strip will display the appropriate color and turn off after 10 seconds of no change in distance.
 
 ### Notes
 
