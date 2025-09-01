@@ -8,7 +8,7 @@ The device consists of an HC-SR04 ultrasonic sensor to measure distance, an addr
 ## Functionality
 As the car approaches the ultrasonic sensor placed at the wall, the measurements are fed into a range of conditional statements which are reflected by the colors below:
 - More than 6 feet: Solid green (distant/clear to go)
-- Less than 6 feet: Solid yelow (approaching/proceed with caution)
+- Less than 6 feet: Solid yellow (approaching/proceed with caution)
 - Less than 3 feet: Solid orange (near/prepare to stop)
 - Less than 1 feet: Solid red (close/stop)
 - Less than 6 inches: Flash red (too close/stop immediately)
